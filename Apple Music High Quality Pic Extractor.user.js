@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Creates a link for getting a high quality jpg image from an Apple Music album. 1200x1200 seems to be the common highest quality picture.
 // @author       LodocArt
-// @git..........https://github.com/LodocArt/apple-music-high-quality-pic-extractor
+// @git          https://github.com/LodocArt/apple-music-high-quality-pic-extractor
 // @match        https://music.apple.com/**/album/*/*
 // @run-at       document-start
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
