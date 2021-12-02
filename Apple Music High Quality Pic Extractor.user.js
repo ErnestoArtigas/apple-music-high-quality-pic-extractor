@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Apple Music High Quality Pic Extractor
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.2
 // @description  Creates a link for getting a high quality jpg image from an Apple Music album. 1200x1200 seems to be the common highest quality picture.
-// @author       ErnestoArtigas
-// @git          https://github.com/ErnestoArtigas/apple-music-high-quality-pic-extractor
-// @match        https://music.apple.com/**/album/*/*
+// @author       LodocArt
+// @git          https://github.com/LodocArt/apple-music-high-quality-pic-extractor
+// @match        https://music.apple.com/*
 // @run-at       document-start
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
